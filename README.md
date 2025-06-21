@@ -31,9 +31,4 @@ This repository contains Python implementations of key algorithms and concepts f
 
 ---
 
-## 🔧 Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/numerical-methods-python.git
-   cd numerical-methods-python
